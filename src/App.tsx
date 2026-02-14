@@ -32,7 +32,7 @@ function App() {
       {yesPressed ? (
         <>
           <img
-            src="/project/workspace/cute.gif"
+            src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGowczR6dWtnZGV0MHI3eTM1cXJuejNzODFlM2QxYnN2Z29mdzYyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rik9n81Vda3rzr5F8h/giphy.gif"
           />
           <div className="text">AWW BABY! YAY! </div>
         </>
